@@ -21,5 +21,5 @@ https://example.local/rest/логин_пользователя/хеш_webhook/pa
  * id - int
  * name - varchar(255)
  * address - varchar(255)
- * created_at - varchar(255)
- * updated_at - varchar(255)
+ * created_at - datetime
+ * updated_at - datetime
